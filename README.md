@@ -1,6 +1,4 @@
-# DG8002_Smart_Cookie_Website_Design.github.io
-
-Smart Cookie
+# Smart Cookie
 
 A website project created for DG8002 - Digital Media Environments
 
